@@ -1,0 +1,11 @@
+{
+  "name": "boost-tti",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-function-types": "1.63.0",
+    "boost-type-traits": "1.63.0",
+    "boost-detail": "1.63.0"
+  }
+}
